@@ -5,6 +5,7 @@ Seek::Application.routes.draw do
 
   scope '/arc' do
     match '/services/instagram' => 'services#instagram'
+    resources :users, only: [:index] # is this used?
   end
   root :to => 'index#root'
 
