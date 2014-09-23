@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="970b67d2-5ffe-4cc6-8346-cb98db0d63c7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/omniauth.rb" afterPath="$PROJECT_DIR$/config/initializers/omniauth.rb" />
-    </list>
+    <list default="true" id="970b67d2-5ffe-4cc6-8346-cb98db0d63c7" name="Default" comment="" />
     <ignored path="seek.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="970b67d2-5ffe-4cc6-8346-cb98db0d63c7" time="1411437478118" ignored="false" />
