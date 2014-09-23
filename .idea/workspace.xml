@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="970b67d2-5ffe-4cc6-8346-cb98db0d63c7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/index/root.html.erb" afterPath="$PROJECT_DIR$/app/views/index/root.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/services_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/services_controller.rb" />
-    </list>
+    <list default="true" id="970b67d2-5ffe-4cc6-8346-cb98db0d63c7" name="Default" comment="" />
     <ignored path="seek.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="970b67d2-5ffe-4cc6-8346-cb98db0d63c7" time="1411437478118" ignored="false" />
@@ -38,19 +35,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services_controller.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="services_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/services_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
+            <state line="3" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.09375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="root.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="root.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/index/root.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="12" selection-start="25" selection-end="25" vertical-scroll-proportion="0.033860046">
+            <state line="1" column="12" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -517,16 +514,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/services_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/index/root.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
+        <state line="1" column="12" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/index/root.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/services_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="25" selection-end="25" vertical-scroll-proportion="0.033860046">
+        <state line="3" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.09375">
           <folding />
         </state>
       </provider>
