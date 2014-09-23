@@ -4,6 +4,9 @@ gem 'rails', '3.2.19'
 
 #gem 'slim-rails'
 
+gem 'omniauth'
+gem 'omniauth-instagram'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
