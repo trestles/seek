@@ -6,6 +6,8 @@ Seek::Application.routes.draw do
   scope '/arc' do
     match '/services/instagram' => 'services#instagram'
   end
+  root :to => 'index#root'
+
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
@@ -56,7 +58,7 @@ Seek::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
-  root :to => 'index#root'
+  # root :to => 'index#root'
 
   # See how all your routes lay out with "rake routes"
 
