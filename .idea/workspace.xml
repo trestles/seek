@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970b67d2-5ffe-4cc6-8346-cb98db0d63c7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/services_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/services_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
     </list>
     <ignored path="seek.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -12,6 +11,7 @@
     <file path="/root.html.erb" changelist="970b67d2-5ffe-4cc6-8346-cb98db0d63c7" time="1411438995161" ignored="false" />
     <file path="/routes.rb" changelist="970b67d2-5ffe-4cc6-8346-cb98db0d63c7" time="1411439427208" ignored="false" />
     <file path="/services_controller.rb" changelist="970b67d2-5ffe-4cc6-8346-cb98db0d63c7" time="1411439648883" ignored="false" />
+    <file path="/users_controller.rb" changelist="970b67d2-5ffe-4cc6-8346-cb98db0d63c7" time="1411439691262" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +40,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="services_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/services_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="40" selection-start="176" selection-end="176" vertical-scroll-proportion="0.15625">
+            <state line="5" column="40" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users_controller.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.13129103">
               <folding />
             </state>
           </provider>
@@ -109,6 +118,7 @@
         <option value="$PROJECT_DIR$/app/views/index/root.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/services_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
       </list>
     </option>
   </component>
@@ -529,7 +539,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/services_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="40" selection-start="176" selection-end="176" vertical-scroll-proportion="0.15625">
+        <state line="5" column="40" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.13129103">
           <folding />
         </state>
       </provider>
