@@ -1,4 +1,12 @@
 Seek::Application.routes.draw do
+  #match '/services/facebook' => 'services#facebook'
+  #mount Sidekiq::Web => "/sidekiq"
+
+
+  scope '/arc' do
+    match '/services/instagram' => 'services#instagram'
+  end
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
