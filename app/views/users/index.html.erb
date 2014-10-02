@@ -1,5 +1,10 @@
 
 here are <strong>USERS (<%=@users.count %>):</strong>
-<% @users.each do |user| %>
-   <%=user.ig_name %>
+<% if signed_in? %>
+  <% @users.each do |user| %>
+     <%=user.ig_name %>
+  <% end %>
+<% else %>
+  </br> Please, sign in to see the list.
+  <%= button_to 'Sign In with Instagram', 'auth/instagram' %>
 <% end %>
