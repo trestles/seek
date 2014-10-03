@@ -1,3 +1,5 @@
 here is root
 <br /><br />
-<a href="https://api.instagram.com/v1/media/popular?client_id=4658fa17d45244c88dd13c73949a57d7&redirect_uri=http://seek-style.herokuapp.com/arc/services/instagram&response_type=code">auth to instagram</a>
+<%= button_to('Sign In with Instagram', 'arc/auth/instagram') unless signed_in? %>
+<br /><br /><br /><br />
+<%= @message if @message %>
