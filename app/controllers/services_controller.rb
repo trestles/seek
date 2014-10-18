@@ -8,6 +8,7 @@ class ServicesController < ApplicationController
     rescue => e
       e.response.body
     end
+    Rails.logger.info("here is the code #{params})
     render 'index/root'
   end
 
